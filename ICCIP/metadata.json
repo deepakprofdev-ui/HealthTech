@@ -1,0 +1,8 @@
+{
+  "name": "Aura Health AI",
+  "description": "Advanced health analytics platform with 3D visualization, predictive risk scoring, and real-time physician interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
